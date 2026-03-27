@@ -1,0 +1,14 @@
+
+---
+
+# 📦 `requirements.txt` (use SAME for all repos)
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+ucimlrepo
+jupyter
